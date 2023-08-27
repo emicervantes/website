@@ -10,6 +10,6 @@ excerpt: "Chibi, the charming tabby lady cat, was small in size but BIG in perso
 featured: false
 layout: single
 subtitle: ""
-title: Midori
+title: Chibi
 ---
 
