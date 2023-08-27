@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonparametric Bayesian on Emi Cervantes</title>
+    <link>/categories/nonparametric-bayesian/</link>
+    <description>Recent content in Nonparametric Bayesian on Emi Cervantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/nonparametric-bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impact of Mediterranean and DASH Diets on MPN Symptoms</title>
+      <link>/research/med/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research/med/</guid>
+      <description>Abstract Myeloproliferative neoplasms (MPN) is a type of blood cancer that originates within the bone marrow. This longitudinal study was held over a span of 14 weeks (112 days) with 24 MPN patients. The Total Symptom Score (TSS) ranges from 1-100, where a lower score relates to less symptoms or better health. In order to assess the symptoms that occur within MPN patients, a daily survey was administered over a span of 112 days assessing symptom burden.</description>
+    </item>
+    
+    <item>
+      <title>Cancer Treatment and Development of Resistance</title>
+      <link>/research/therapy/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research/therapy/</guid>
+      <description>Introduction Adaptive therapy is a type of cancer treatment that undergoes period of chemo therapy followed by &amp;ldquo;drug holiday&amp;rdquo;, period of time when patients stop taking treatment. This type of treatment is effective in stabilizing the growth rate of tumor cell. We are using population growth ODE models for both susceptible/sensitive tumor cells and resistant tumor cells, with different therapy conditions. To test our conditions, we created a simulation for the ODE model, which allowed us to see changes in cell growth between different factors.</description>
+    </item>
+    
+  </channel>
+</rss>

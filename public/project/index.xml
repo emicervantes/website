@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Emi Cervantes</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Emi Cervantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anime Prediction</title>
+      <link>/project/anime/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anime/</guid>
+      <description>About The big question of this app is to find if the time each anime was aired determined its genre. I created a model using Scikit-learn LogisticRegression algorithm to predict the genre of anime based on its score and the time it was aired. Another feature that I added was the anime recommendation engine using Scikit-learn with a concept of cosine similarity.
+Dataset Link: https://www.kaggle.com/datasets/canggih/anime-data-score-staff-synopsis-and-genre</description>
+    </item>
+    
+    <item>
+      <title>Dating Apps Analysis</title>
+      <link>/project/dating/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dating/</guid>
+      <description>About I gathered user reviews from three popular dating apps: Bumble, Hunge, and Tinder. My goal of this project was to identify trends and differences in user experiences across these platforms. The analyses were done using language processing libraries.</description>
+    </item>
+    
+    <item>
+      <title>Fitted and Predicted</title>
+      <link>/project/fashion/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/fashion/</guid>
+      <description>Collaborators: Christina Orengo, Nathan Samarasena
+About This program was designed to showcase how seemingly complicated and nuanced tasks as quality prediction and recommendation of something as subjective as clothing and fashion can be optimized for the consumer, especially with the use of machine learning and model training.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks on Emi Cervantes</title>
+    <link>/categories/networks/</link>
+    <description>Recent content in Networks on Emi Cervantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cancer Treatment and Development of Resistance</title>
+      <link>/research/therapy/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research/therapy/</guid>
+      <description>Introduction Adaptive therapy is a type of cancer treatment that undergoes period of chemo therapy followed by &amp;ldquo;drug holiday&amp;rdquo;, period of time when patients stop taking treatment. This type of treatment is effective in stabilizing the growth rate of tumor cell. We are using population growth ODE models for both susceptible/sensitive tumor cells and resistant tumor cells, with different therapy conditions. To test our conditions, we created a simulation for the ODE model, which allowed us to see changes in cell growth between different factors.</description>
+    </item>
+    
+  </channel>
+</rss>

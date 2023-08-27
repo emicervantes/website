@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Emi Cervantes</title>
+    <link>/categories/tutorials/</link>
+    <description>Recent content in Tutorials on Emi Cervantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gender Differences in the Impact of Worked Examples on Math Anxiety</title>
+      <link>/research/math-anxiety/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/research/math-anxiety/</guid>
+      <description>Abstract Cognitive Load Theory (Sweller, 1988) suggests that worked examples, mathematical problems with written out solutions, can increase students’ available working memory resources - which are a limited set of cognitive attention resources that allow students to learn mathematics concepts and solve word problems. At the same time, many students feel math anxiety when faced with math learning and problem solving, which can generate worries that engage the same limited set of working memory resources, reducing available resources for new learning and problem solving.</description>
+    </item>
+    
+  </channel>
+</rss>
