@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emi C"
+author: "Emi C (she/her/hers)"
 role: "Mathematics Student at UC Irvine"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
