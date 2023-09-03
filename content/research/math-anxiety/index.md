@@ -6,7 +6,7 @@ categories:
 date: "2023-07-29"
 date_end: "present"
 draft: false
-excerpt: "Keywords: Structural equation modeling, latent variable modeling, randomized controlled trials, math anxiety, Cognitive Load theory"
+excerpt: "<b>Keywords:</b> Structural equation modeling, latent variable modeling, randomized controlled trials, math anxiety, Cognitive Load theory"
 featured: false
 layout: single
 links:

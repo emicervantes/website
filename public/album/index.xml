@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meet my friends... on Emi Cervantes</title>
+    <link>/album/</link>
+    <description>Recent content in Meet my friends... on Emi Cervantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azuki</title>
+      <link>/album/azuki/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/album/azuki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midori</title>
+      <link>/album/midori/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/album/midori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luka</title>
+      <link>/album/luka/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/album/luka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chibi</title>
+      <link>/album/chibi/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/album/chibi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai</title>
+      <link>/album/kai/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/album/kai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
