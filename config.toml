@@ -119,7 +119,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/emi-cv-draft.pdf/"
+    url = "/Emi_s_CV.pdf/"
     weight = 4
   [[menu.header]]
     name = "Album"
