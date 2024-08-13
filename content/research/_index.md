@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /research/
-description: "My research interests are in numerical linear algebra and practical application of Data Science in domains such as medicine and educational psychology."
+description: 
 layout: list-grid
 show_author_byline: false
 show_button_links: true

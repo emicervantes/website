@@ -13,3 +13,20 @@ subtitle: ""
 title: Kai
 ---
 
+Fun fact: He was named after the Vampire Diaries character.
+
+![Midori](/kai-and-me.jpeg)
+
+![Midori](/kai-chibi.jpeg)
+
+He loved chicken feet!
+
+![Midori](/kai-chickenwing.jpeg)
+
+Kai with baby Luka
+
+![Midori](/kai-luka.jpeg)
+
+Kai with baby Midori
+
+![Midori](/kai-midori.jpeg)

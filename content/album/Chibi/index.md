@@ -13,3 +13,15 @@ subtitle: ""
 title: Chibi
 ---
 
+Fun fact: She was adopted on Halloween :jack_o_lantern:
+
+![Midori](/chibi.jpeg)
+
+![Midori](/family-pic.jpeg)
+
+Chibi helping me with my calculus class
+
+![Midori](/chibi-math.jpeg)
+
+
+
