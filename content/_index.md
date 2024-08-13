@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hello and welcome! <br><br> I'm a Ph.D. student in the Department of Statistics at Penn State University. Mu current research areas focus on statistics education and statistical network science. <br><br> <b>Email:</b> emic [at] psu [dot] edu
+description: Hello and welcome! <br><br> I'm a Ph.D. student in the Department of Statistics at Penn State University. My current research areas focus on statistics education and statistical network science. <br><br> <b>Email:</b> emic [at] psu [dot] edu
 image_left: false
 images:
 - img/emi-port2.png
